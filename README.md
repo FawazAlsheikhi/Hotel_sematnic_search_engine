@@ -11,7 +11,7 @@
 
 **Description:**  
 This project implements a semantic search system designed to identify the most relevant hotels based on a user query. By leveraging advanced natural language processing techniques, the notebook ranks hotels according to their relevance to the input query, considering both similarity and sentiment.
-![Luxury Hotel in London](hotel_image.png)
+![Luxury Hotel in London](qurey_output.png)
 
 **Key Features:**
 - **Semantic Search:** Utilizes deep learning models to perform semantic search, ensuring that hotel recommendations closely match the intent and context of the user’s query.
