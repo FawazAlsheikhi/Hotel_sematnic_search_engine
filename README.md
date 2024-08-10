@@ -1,5 +1,6 @@
 
 # Semantic Hotel Search
+
 **By:**
 Fawaz Alsheikhi
 Taif Alharbi
