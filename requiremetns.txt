@@ -1,0 +1,9 @@
+datasets
+openai
+sentence_transformers
+spacy
+sklearn
+pandas
+numpy
+transformers
+gradio
