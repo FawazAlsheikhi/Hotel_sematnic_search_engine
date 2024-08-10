@@ -1,7 +1,8 @@
 
 # Semantic Hotel Search
 
-**By:** \n
+**By:** 
+
 Fawaz Alsheikhi
 Taif Alharbi
 Nora .....
